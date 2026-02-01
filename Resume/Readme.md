@@ -5,7 +5,7 @@ Hello all the contibuters 😎.                                                 
             Click fork button to clone and create your own copy 👍.             <br><br>
     Step 2:-                                                                     <br>
            For clone your fork run this command.                                 <br>
-           git clone https://github.com/your-username/Assignment.git             <br>
+           git clone https://github.com/ravishankardev/Assignment.git             <br>
            cd repository-name                                                    <br><br>
    Step 2:-                                                                      <br>
           Create new branch to add new features.                                 <br>
